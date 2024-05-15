@@ -14,6 +14,3 @@ En effet, ce compte nous permettra d'éviter l'utilisation du compte root, ce qu
 
 ## ETAPE 4
 ![image](https://github.com/abiForSofteam/aws/assets/56606441/e597547b-9ee6-4acd-bb12-115ff98fa3e5)
-
-
- aws iam user
